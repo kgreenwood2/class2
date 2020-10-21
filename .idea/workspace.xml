@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6275546f-e4b0-4952-b411-f534a9b7660e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/class2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab 3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jCTyozjGjfLwIGO2Ye6ubsX1qa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6275546f-e4b0-4952-b411-f534a9b7660e" name="Default Changelist" comment="" />
+      <created>1603307332708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603307332708</updated>
+      <workItem from="1603307334212" duration="6680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-932" y="427" key="Github.ShareDialog" timestamp="1603314133159">
+      <screen x="-1920" y="9" width="1920" height="1040" />
+    </state>
+    <state x="-932" y="427" key="Github.ShareDialog/0.0.1920.1040/-1920.9.1920.1040@-1920.9.1920.1040" timestamp="1603314133159" />
+    <state x="-997" y="234" key="Github.UntrackedFilesDialog" timestamp="1603314148635">
+      <screen x="-1920" y="9" width="1920" height="1040" />
+    </state>
+    <state x="-997" y="234" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.9.1920.1040@-1920.9.1920.1040" timestamp="1603314148635" />
+  </component>
+</project>
